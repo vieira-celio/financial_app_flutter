@@ -1,16 +1,8 @@
-# financial_tracker
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Foi criado para tentativa de implementação da funçao de edição no projeto, os arquivos:
+usecase/edit_transaction_use_case_impl.dart
+widget/edit_transaction_form.dart
+função de edição:
+controller/home_page_controller.dart
+linha 99-121.
+O front-end está funcionando, esta exibindo o icone de lapis nas transações, e abrindo o formulario pra editar,
+porem ao clicar em salvar nada acontece, nem a pagina atualiza.
